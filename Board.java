@@ -70,7 +70,7 @@ public class Board extends JApplet {
 			}
 		}
 	}
-	
+
 	class Listener implements ActionListener {
 		public void actionPerformed(ActionEvent e) {
 			for(int i=0; i<100; ++i)
